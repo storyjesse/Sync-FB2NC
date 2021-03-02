@@ -1,0 +1,5 @@
+caldav>=0.6.2
+icalendar
+pytz
+six
+tzlocal

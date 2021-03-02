@@ -1,0 +1,9 @@
+README.md
+calendar-cli
+calendar-cli.py
+setup.py
+calendar_cli.egg-info/PKG-INFO
+calendar_cli.egg-info/SOURCES.txt
+calendar_cli.egg-info/dependency_links.txt
+calendar_cli.egg-info/requires.txt
+calendar_cli.egg-info/top_level.txt

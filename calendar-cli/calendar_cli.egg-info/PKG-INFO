@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: calendar-cli
+Version: 0.12.0
+Summary: Simple command-line CalDav client, for adding and browsing calendar items, todo list items, etc.
+Home-page: https://github.com/tobixen/calendar-cli
+Author: Tobias Brox
+Author-email: t-calendar-cli@tobixen.no
+License: GPLv3+
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content :: CGI Tools/Libraries
